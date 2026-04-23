@@ -28,18 +28,6 @@ The main objectives of this project were:
 
 ---
 
-## 📂 Project Structure
-
-OLA-Data-Analyst-Project/
-│── Dataset/
-│   └── ola_bookings.csv
-│── SQL Queries/
-│   └── ola_analysis.sql
-│── Dashboard/
-│   └── ola_dashboard.pbix
-│── README.md
-
----
 
 ## 📊 SQL Analysis Performed
 
